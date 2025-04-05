@@ -46,7 +46,7 @@ func main() {
 			"2. Marcar como completada.\n",
 			"3. Editar tarea.\n",
 			"4. Eliminar tarea.\n",
-			"5. Salir.\n",
+			"5. Salir.",
 		)
 		fmt.Print("Introduzca opción:")
 		fmt.Scanln(&opcion)
